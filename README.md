@@ -29,5 +29,10 @@ Custom web panels, store systems, and APIs
 
 Open to collaboration on web apps, bots, and Minecraft-related tools.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/840244590870003762?theme=dark)](https://discord.com/users/840244590870003762)
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/iccnex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iccnex" height="30" width="40" /></a>
+<a href="https://instagram.com/unfilteredvadish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unfilteredvadish" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/iccnexhost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iccnexhost" height="30" width="40" /></a>
+<a href="https://discord.gg/iccnex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iccnex" height="30" width="40" /></a>
+</p>
